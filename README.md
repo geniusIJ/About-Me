@@ -12,7 +12,7 @@ Experiances make us who we are. Here are mine. And I will also list something I 
 2018-2020 Shanghai Maritime University  
 2021      Hylink
 # Education
-##Shanghai Maritime University
+## Shanghai Maritime University
 Bachelor of Engineering Science, Ocean Engineering,  9/2017-6/2021  
-##University at Buffalo
+## University at Buffalo
 Master of Engineering Science, Data Science, Expected 12/2022  
